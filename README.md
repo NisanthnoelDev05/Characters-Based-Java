@@ -1,2 +1,2 @@
-# Charecter-Based-Java
-Programs based on Character in Java
+# Characters-Based-Java
+Programs based on Characters in Java
